@@ -11,4 +11,6 @@ league settings
 
 ### Some stats/visualizations
 
-<img src= "https://github.com/jvanzalk/fantasy-manager-stats/blob/main/Images/waiver_adds.png" width="400">
+<img src= "https://github.com/jvanzalk/fantasy-manager-stats/blob/main/Images/waiver_adds.png" width="350">
+
+<img src= "https://github.com/jvanzalk/fantasy-manager-stats/blob/main/Images/scoring_variation.png" width="700">
